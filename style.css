@@ -1,0 +1,4 @@
+#wishList {
+    display: flex;
+    flex-direction: column;
+}
